@@ -6,7 +6,7 @@
     <title>My GitHub Page</title>
 </head>
 <body>
-    <h1>Welcome to My GitHub Page!</h1>
+    <h1>APRIL FOOLS!</h1>
     <img src="April Fools! .png" alt="April Fools Image">
 </body>
 </html>
