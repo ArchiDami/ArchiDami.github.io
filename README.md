@@ -11,7 +11,7 @@
     <!-- Open Graph Tags -->
     <meta property="og:title" content="Fox41SanDiegoConstructionCatastrophe04012025">
     <meta property="og:description" content="Click here for a surprise!">
-    <meta property="og:image" content="URL_OF_YOUR_IMAGE">
+    <meta property="og:image" content="(https://github.com/ArchiDami/ArchiDami.github.io/blob/0bced345e305314a0b990d5ab53dbdc70009dc73/Breaking%20News%20Final.jpg)">
     <meta property="og:url" content="https://archidami.github.io/">
 </head>
 <body>
