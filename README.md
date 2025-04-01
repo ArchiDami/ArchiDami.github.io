@@ -9,7 +9,7 @@
     <meta property="og:title" content="Fox41SanDiegoConstructionCatastrophe04012025">
     <meta property="og:description" content="An ongoing investigation has begun this morning at the Torrey Heights facility following a catastrophic oversight of safety and regulations. Law Enforcement and First Responders are onsite assessing the damage.">
     <meta property="og:image" content="https://i.imgur.com/qWt2C5p.jpeg">
-    <meta property="og:url" content="https://archidami.github.io/">
+    <meta property="og:url" content="bit.ly/Fox41SanDiegoConstructionCatastrophe04012025">
 
 </head>
 <body>
